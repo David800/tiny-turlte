@@ -1,0 +1,9 @@
+/*global$*/("TinyTurtle").apply(window);
+/*global$forward*/(40);
+/*global$right*/(45);
+/*global$forward*/(25);
+/*global$right*/(90);
+/*global$forward*/(40);
+/*global$left*/(70);
+/*global$forward*/(70);
+stamp();
